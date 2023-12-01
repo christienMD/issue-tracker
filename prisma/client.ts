@@ -16,7 +16,7 @@ export default prisma;
 
 if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
 
-// password: pscale_pw_GholilCHDYvPcDwb84zrhot86Tx0RSXynJZR308xmP
+// password: pscale_pw_trTRMHJlTAXFHgO9EaGUraqY4BmSzGHCT43BKL6kROt
 
-// username: o471vgzbnssxicvjwjto
-// DATABASE_URL='mysql://o471vgzbnssxicvjwjto:pscale_pw_GholilCHDYvPcDwb84zrhot86Tx0RSXynJZR308xmP@aws.connect.psdb.cloud/issue-tracker?sslaccept=strict'
+// username: 4d8lsd5lnu46a6tdefrf
+// DATABASE_URL='mysql://4d8lsd5lnu46a6tdefrf:pscale_pw_trTRMHJlTAXFHgO9EaGUraqY4BmSzGHCT43BKL6kROt@aws.connect.psdb.cloud/issue-tracker?sslaccept=strict'
