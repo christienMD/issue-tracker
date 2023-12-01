@@ -16,7 +16,7 @@ export default prisma;
 
 if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;
 
-// password:
-// ms19dxrdn5jutkmz60i3
-// name:
-// pscale_pw_N35GMeXv9OOSZ8HdeUVD3badb14BgxdmUc8dVX3YwAW
+// password: pscale_pw_GholilCHDYvPcDwb84zrhot86Tx0RSXynJZR308xmP
+
+// username: o471vgzbnssxicvjwjto
+// DATABASE_URL='mysql://o471vgzbnssxicvjwjto:pscale_pw_GholilCHDYvPcDwb84zrhot86Tx0RSXynJZR308xmP@aws.connect.psdb.cloud/issue-tracker?sslaccept=strict'
