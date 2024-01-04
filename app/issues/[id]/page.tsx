@@ -18,7 +18,7 @@ const fetchUser = cache((issueId: number) =>
 
 const IssueDetailPage = async ({ params }: Props) => {
   const session = await getServerSession(authOptions);
-
+  
   const issue = await fetchUser(parseInt(params.id));
 
   if (!issue) notFound();
